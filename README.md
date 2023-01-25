@@ -1,9 +1,3 @@
-# Timothy D Meadows II
-
-<p align="center">
-<img alt="Brisk Logo" src="https://avatars.githubusercontent.com/u/4072037?v=4" width="200" height="200" />
-</p>
-
 <p>
 I bring 23 years of experience. I have engineered high availability distributed systems, and applications as well as led teams of engineers, and developers as large as 15. I have strong knowledge of security policies and practices as well as experience in securing medical, and financial systems. I have strong communication skills, and can work alone on large projects for protracted periods of time.
 </p>
