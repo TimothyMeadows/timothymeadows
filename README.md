@@ -10,15 +10,6 @@ I bring 23 years of experience. I have engineered high availability distributed 
     - [**TopLingo, Inc** Irvine, CA — *Application Systems Engineer*](#toplingo-inc-irvine-ca--application-systems-engineer)
     - [**Slingshot Development, Inc** Irvine, CA — *Software Developer*](#slingshot-development-inc-irvine-ca--software-developer)
     - [**Meadows & Meadows** Anaheim, CA — *Software Developer*](#meadows--meadows-anaheim-ca--software-developer)
-- [PROJECTS](#projects)
-    - [**reCAPTCHA.AspNetCore**](#recaptchaaspnetcore)
-    - [**GUvrs**](#guvrs)
-    - [**PinnedMemory**](#pinnedmemory)
-    - [**Yolo6.NetCore**](#yolo6netcore)
-    - [**Curve25519.NetCore**](#curve25519netcore)
-    - [**AeadChaCha20Poly1305.NetCore**](#aeadchacha20poly1305netcore)
-    - [**Argon2.NetCore**](#argon2netcore)
-    - [**Blake2b.NetCore**](#blake2bnetcore)
 - [LANGUAGES](#languages)
 - [CONTACTS](#contacts)
 
@@ -97,25 +88,6 @@ JUN 2000 - AUG 2002
 
 * Built order, and inventory management systems for AT&T, Dish Network, and DirecTV contractors to help locate, and track installed converter boxes when installers installed them in customers houses.
 * Built anti-theft scanning system to help warehouses catch converter box theft from installers.
-
-## PROJECTS
-
-1. #### [**reCAPTCHA.AspNetCore**](https://github.com/TimothyMeadows/reCAPTCHA.AspNetCore)
-    Google reCAPTCHA v2/v3 for .NET.
-0. #### [**GUvrs**](https://github.com/TimothyMeadows/GUvrs)
-   .NET MAUI Windows, and Mac application for checking the Gods Unchained debug log for you, and your opponents profile ids during a game. You can click on the profile ids to load up the respective GUdecks profile.
-0. #### [**PinnedMemory**](https://github.com/TimothyMeadows/PinnedMemory)
-   Cross platform method for creating, and accessing pinned, and locked memory for Windows, Mac, and Linux operating systems for .NET.
-0. #### [**Yolo6.NetCore**](https://github.com/TimothyMeadows/Yolo6.NetCore)
-   Implementation of You Only Look Once (v6) AI image classification model for .NET.
-0. #### [**Curve25519.NetCore**](https://github.com/TimothyMeadows/Curve25519.NetCore)
-   Implementation of an elliptic curve offering 128 bits of security and designed for use with the elliptic curve Diffie–Hellman (ECDH) key agreement scheme for .NET.
-0. #### [**AeadChaCha20Poly1305.NetCore**](https://github.com/TimothyMeadows/AeadChaCha20Poly1305.NetCore)
-   Implementation of AEAD_CHACHA20_POLY1305 an authenticated encryption with additional data algorithm using ChaCha20, and Poly1305.
-0. #### [**Argon2.NetCore**](https://github.com/TimothyMeadows/Argon2.NetCore)
-   Implementation of Argon2 key derivation function for .NET.
-0. #### [**Blake2b.NetCore**](https://github.com/TimothyMeadows/Blake2b.NetCore)
-   Implementation of the cryptographic hash, and mac functions of BLAKE2b for .NET.
 
 ## LANGUAGES
 
