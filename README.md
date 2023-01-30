@@ -17,7 +17,7 @@ I bring 23 years of experience. I have engineered high availability distributed 
 
 | FRONTEND    | BACKEND               | LANGUAGES     | SERVER                    | HARDWARE
 | ----------- | -----------           | -----------   | -----------               | -----------
-| Flex Box    | JWT                   | C# .NET       | Windows Server            | Nvidia Jetson
+| Flex Box    | Dependency Injection  | C# .NET       | Windows Server            | Nvidia Jetson
 | Bootstrap   | MVC                   | JavaScript    | Ubuntu Server             | Nvidia Clara
 | jQuery      | Web Hooks             | Node.js       | Docker                    | Raspberry PI
 | Kendo       | Blazor Server         | Markdown      | Kubernetes                | Latte Panda
@@ -25,14 +25,14 @@ I bring 23 years of experience. I have engineered high availability distributed 
 | Blazor      | Azure Functions       | Batch         | Nginx                     | Arduino
 | MVC         | Azure Storage         | Python        | Apache                    | Microsoft Hololens
 | Razor       | Azure Service Bus     | PHP           | FTP                       | Symbol scanners
-| Mustache    | Rabbit MQ             | Visual Basic  | SSH                       | Honeywell scanners
-| CORS        | Azure Tables          | Perl          | Active Directory          | Motarola scanners
-|             | Microsoft SQL         | HTML          | Azure Active Directory    | Finger print scanners
-|             | MySQL                 | CSS           | Azure Networking          | Retina scanners
-|             | SQLite                | XML           | Azure VPN                 |
-|             | ADO.NET               | XAML          | Windows Storage Pools     |
-|             | Entity Framework      | YAML          | OpenVPN                   |
-|             | Dependency Injection  | PowerShell    |                           |
+| Mustache    | Azure Queues          | Visual Basic  | SSH                       | Honeywell scanners
+| CORS        | Rabbit MQ             | PineScript    | Active Directory          | Motarola scanners
+| Knockout    | Azure Tables          | HTML          | Azure Active Directory    | Finger print scanners
+| Underscore  | Microsoft SQL         | CSS           | Azure Networking          | Retina scanners
+| Backbone    | MySQL                 | XML           | Azure VPN                 |
+|             | SQLite                | XAML          | Windows Storage Pools     |
+|             | ADO.NET               | YAML          | OpenVPN                   |
+|             | Entity Framework      | PowerShell    |                           |
 
 ## EXPERIENCE
 
