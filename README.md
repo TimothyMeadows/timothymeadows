@@ -15,24 +15,24 @@ I bring 23 years of experience. I have engineered high availability distributed 
 
 ## SKILLS
 
-| FRONTEND    | BACKEND               | LANGUAGES     | SERVER                    | HARDWARE
-| ----------- | -----------           | -----------   | -----------               | -----------
-| Flex Box    | Dependency Injection  | C# .NET       | Windows Server            | Nvidia Jetson
-| Bootstrap   | MVC                   | JavaScript    | Ubuntu Server             | Nvidia Clara
-| jQuery      | Web Hooks             | Node.js       | Docker                    | Raspberry PI
-| Kendo       | Blazor Server         | Markdown      | Kubernetes                | Latte Panda
-| Telerik     | Web Api               | Bash          | IIS                       | ESP32
-| Blazor      | Azure Functions       | Batch         | Nginx                     | Arduino
-| MVC         | Azure Storage         | Python        | Apache                    | Microsoft Hololens
-| Razor       | Azure Service Bus     | PHP           | FTP                       | Symbol scanners
-| Mustache    | Azure Queues          | Visual Basic  | SSH                       | Honeywell scanners
-| CORS        | Rabbit MQ             | PineScript    | Active Directory          | Motarola scanners
-| Knockout    | Azure Tables          | HTML          | Azure Active Directory    | Finger print scanners
-| Underscore  | Microsoft SQL         | CSS           | Azure Networking          | Retina scanners
-| Backbone    | MySQL                 | XML           | Azure VPN                 |
-|             | SQLite                | XAML          | Windows Storage Pools     |
-|             | ADO.NET               | YAML          | OpenVPN                   |
-|             | Entity Framework      | PowerShell    |                           |
+| FRONTEND    | BACKEND               | LANGUAGES     | SERVER                    | HARDWARE                   | AI
+| ----------- | -----------           | -----------   | -----------               | -----------                | -----------
+| Flex Box    | Dependency Injection  | C# .NET       | Windows Server            | Nvidia Jetson              | Caffe
+| Bootstrap   | MVC                   | JavaScript    | Ubuntu Server             | Nvidia Clara               | Yolo
+| jQuery      | Web Hooks             | Node.js       | Docker                    | Raspberry PI               | Pytorch
+| Kendo       | Blazor Server         | Markdown      | Kubernetes                | Latte Panda                | Movidius
+| Telerik     | Web Api               | Bash          | IIS                       | ESP32                      | OpenAI
+| Blazor      | Azure Functions       | Batch         | Nginx                     | Arduino                    | OpenALPR
+| MVC         | Azure Storage         | Python        | Apache                    | Microsoft Hololens         | Microsoft.ML
+| Razor       | Azure Service Bus     | PHP           | FTP                       | Symbol scanners            | Predictive Analytics
+| Mustache    | Azure Queues          | Visual Basic  | SSH                       | Honeywell scanners         | TensorFlow
+| CORS        | Rabbit MQ             | PineScript    | Active Directory          | Motarola scanners          | TensorFlow Lite
+| Knockout    | Azure Tables          | HTML          | Azure Active Directory    | Finger print scanners      | NABirds
+| Underscore  | Microsoft SQL         | CSS           | Azure Networking          | Retina scanners            | 
+| Backbone    | MySQL                 | XML           | Azure VPN                 |                            |
+|             | SQLite                | XAML          | Windows Storage Pools     |                            |
+|             | ADO.NET               | YAML          | OpenVPN                   |                            |
+|             | Entity Framework      | PowerShell    |                           |                            |
 
 ## EXPERIENCE
 
