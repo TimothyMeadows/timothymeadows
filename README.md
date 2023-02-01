@@ -15,24 +15,21 @@ I bring 23 years of experience. I have engineered high availability distributed 
 
 ## SKILLS
 
-| FRONTEND    | BACKEND               | LANGUAGES     | SERVER                    | HARDWARE                   | AI
-| ----------- | -----------           | -----------   | -----------               | -----------                | -----------
-| Flex Box    | Dependency Injection  | C# .NET       | Windows Server            | Nvidia Jetson              | Caffe
-| Bootstrap   | MVC                   | JavaScript    | Ubuntu Server             | Nvidia Clara               | Yolo
-| jQuery      | Web Hooks             | Node.js       | Docker                    | Raspberry PI               | Pytorch
-| Kendo       | Blazor Server         | Markdown      | Kubernetes                | Latte Panda                | Movidius
-| Telerik     | Web Api               | Bash          | IIS                       | ESP32                      | OpenAI
-| Blazor      | Azure Functions       | Batch         | Nginx                     | Arduino                    | OpenALPR
-| MVC         | Azure Storage         | Python        | Apache                    | Microsoft Hololens         | Microsoft.ML
-| Razor       | Azure Service Bus     | PHP           | FTP                       | Symbol scanners            | Predictive Analytics
-| Mustache    | Azure Queues          | Visual Basic  | SSH                       | Honeywell scanners         | TensorFlow
-| CORS        | Rabbit MQ             | PineScript    | Active Directory          | Motarola scanners          | TensorFlow Lite
-| Knockout    | Azure Tables          | HTML          | Azure Active Directory    | Finger print scanners      | NABirds
-| Underscore  | Microsoft SQL         | CSS           | Azure Networking          | Retina scanners            | 
-| Backbone    | MySQL                 | XML           | Azure VPN                 |                            |
-|             | SQLite                | XAML          | Windows Storage Pools     |                            |
-|             | ADO.NET               | YAML          | OpenVPN                   |                            |
-|             | Entity Framework      | PowerShell    |                           |                            |
+| FRONTEND    | BACKEND               | LANGUAGES     | SERVER                    | AI                      | DEVOPS
+| ----------- | -----------           | -----------   | -----------               | -----------             | ----------
+| Flex Box    | Dependency Injection  | C# .NET       | Windows Server            | Caffe                   | Github
+| Bootstrap   | Entity Framework      | JavaScript    | Ubuntu Server             | Yolo                    | Github Actions
+| jQuery      | Web Hooks             | Node.js       | Docker                    | Pytorch                 | Azure DevOps
+| Kendo       | Blazor Server         | Markdown      | Windows Storage           | Movidius                | TFS
+| Telerik     | Microsoft SQL         | PowerShell    | IIS                       | OpenAI                  | Git
+| Blazor      | Azure Functions       | Batch         | Nginx                     | OpenALPR                | Svn
+| MVC         | Azure Storage         | Python        | Apache                    | Microsoft.ML            | Cvs
+| Razor       | Azure Service Bus     | XAML          | FTP                       | Predictive Analytics    | VSS
+| Mustache    | Azure Queues          | Visual Basic  | SSH                       | TensorFlow              |
+| CORS        | Rabbit MQ             | PineScript    | Active Directory          | TensorFlow Lite         |
+| Knockout    | Azure Tables          | HTML          | Azure Active Directory    | NABirds                 |
+| Underscore  | SQLite                | CSS           | Azure Networking          |                         |
+| Backbone    | MySQL                 | XML           | Azure VPN                 |                         |
 
 ## EXPERIENCE
 
