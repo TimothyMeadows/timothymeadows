@@ -47,6 +47,8 @@ JUN 2014 - FEB 2023
 * Helped to upgrade an existing real estate system for processing leads, and agent materials from .NET 2.0 into .NET 4.5.
 * Hired to move the company from physical on-site hardware to virtualized hardware in the Windows Azure Cloud. This move covered 8 servers, 13 databases, and, 9.97 TB's of data spread across 7,818,736 files (mostly images, fonts, and, pdfs) from a 2-server legacy system.
 
+***Skills***: Underscore.js · Backbone.js · Blazor · SignalR · SOLID Design Principles · ASP.NET MVC · Git · JavaScript · C# · HTML 5 · Cloud Computing · Web Applications · Software Development · Data Analysis · Microsoft SQL Server · SQLite · REST · Ubuntu · Windows Server · Windows Azure · Node.js · CSS · SQL · ASP.NET · Microsoft Azure · .NET Framework · Web Application Security · Database Security · Windows Security · Cryptography · Cloud Security · Ethical Hacking · SQL Azure · Redis · CDN · Azure Storage · Distributed Algorithms
+
 ### **Via Touch Media** San Diego, CA — *Security Systems Engineer*
 APR 2017 - MAY 2019
 
@@ -55,6 +57,8 @@ APR 2017 - MAY 2019
 * Provided consulting for securing the distributed vending machine platform in multiple states.
 * Provided consulting for  power management with Raspberry PI, and biometric equipment.
 * Provided research on AI brand recognition capabilities of both cloud based, and local hardware based systems.
+
+**Skills**: Blazor · SignalR · SOLID Design Principles · ASP.NET MVC · Git · JavaScript · C# · HTML 5 · Cloud Computing · Web Applications · Software Development · Data Analysis · Machine Learning · Microsoft SQL Server · MySQL · C++ · Arduino · SQLite · REST · Ubuntu · Windows Server · Windows Azure · Node.js · CSS · SQL · ASP.NET · Microsoft Azure · .NET Framework · TensorFlow · Python (Programming Language) · Web Application Security · Database Security · Windows Security · Cryptography · Cloud Security · Ethical Hacking · SQL Azure · Redis · CDN · Azure Storage · Biometrics · Raspberry Pi · OpenCV · Distributed Algorithms
 
 ### **nPrivate** San Bernardino, CA — *Security Systems Engineer*
 JAN 2008 - OCT 2013
@@ -65,12 +69,16 @@ JAN 2008 - OCT 2013
 * Created a secure messaging platform, and application called Tweet'N Private using Twitter as a communication medium.
 * Helped to create a secure messaging platform, and application called Talk'N Private using IRC as a communication medium.
 
+**Skills**: SOLID Design Principles · ASP.NET MVC · Git · JavaScript · C# · HTML 5 · Cloud Computing · Web Applications · Software Development · Data Analysis · Microsoft SQL Server · MySQL · SQLite · REST · Ubuntu · Windows Server · Visual Basic · Node.js · CSS · SQL · ASP.NET · .NET Framework · Python (Programming Language) · Web Application Security · Database Security · Cryptography · CDN · Distributed Algorithms
+
 ### **TopLingo, Inc** Irvine, CA — *Application Systems Engineer*
 APR 2005 - NOV 2008
 
 * Built a distributed payment gateway using Wells Fargo ACH for an automated pay anything online service.
 * Helped build a loan credit scoring engine for JP Morgan Chase that could generate a credit score in under 1 hour. Industry standard at that time was 3 days, or more.
 * Helped build a loan management system for Impac.
+
+**Skills**: ASP.NET MVC · Git · JavaScript · C# · HTML 5 · Web Applications · Software Development · Microsoft SQL Server · ASP · ActionScript · SQLite · REST · Ubuntu · Windows Server · Visual Basic · CSS · SQL · ASP.NET · .NET Framework · Web Application Security · Database Security · Cryptography
 
 ### **Slingshot Development, Inc** Irvine, CA — *Software Developer*
 AUG 2002 - APR 2005
@@ -80,11 +88,15 @@ AUG 2002 - APR 2005
 * Built website for Miles Davis
 * Built website for Carlos Santana
 
+**Skills**: ASP.NET MVC · JavaScript · C# · HTML 5 · Web Applications · Software Development · Microsoft SQL Server · ASP · ActionScript · SQLite · REST · Windows Server · Visual Basic · CSS · SQL · ASP.NET
+
 ### **Meadows & Meadows** Anaheim, CA — *Software Developer*
 JUN 2000 - AUG 2002
 
 * Built order, and inventory management systems for AT&T, Dish Network, and DirecTV contractors to help locate, and track installed converter boxes when installers installed them in customers houses.
 * Built anti-theft scanning system to help warehouses catch converter box theft from installers.
+
+**Skills**: JavaScript · HTML 5 · Web Applications · Software Development · Microsoft SQL Server · ASP · ActionScript · Perl · SQLite · REST · Windows Server · Visual Basic · CSS · SQL
 
 ## LANGUAGES
 
