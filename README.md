@@ -2,7 +2,6 @@
 I bring 23 years of experience. I have engineered high availability distributed systems, and applications as well as led teams of engineers, and developers as large as 15. I have strong knowledge of security policies and practices as well as experience in securing medical, and financial systems. I have strong communication skills, and can work alone on large projects for protracted periods of time.
 </p>
 
-- [SKILLS](#skills)
 - [EXPERIENCE](#experience)
     - [**The Dot Corp, Inc,** Santa Ana, CA — *Lead Full-Stack Developer*](#the-dot-corp-inc-santa-ana-ca--lead-full-stack-developer)
     - [**Via Touch Media** San Diego, CA — *Security Systems Engineer*](#via-touch-media-san-diego-ca--security-systems-engineer)
@@ -12,24 +11,6 @@ I bring 23 years of experience. I have engineered high availability distributed 
     - [**Meadows & Meadows** Anaheim, CA — *Software Developer*](#meadows--meadows-anaheim-ca--software-developer)
 - [LANGUAGES](#languages)
 - [CONTACTS](#contacts)
-
-## SKILLS
-
-| FRONTEND    | BACKEND               | LANGUAGES     | SERVER                    | AI                      | DEVOPS
-| ----------- | -----------           | -----------   | -----------               | -----------             | ----------
-| Flex Box    | Dependency Injection  | C# .NET       | Windows Server            | Caffe                   | Github
-| Bootstrap   | Entity Framework      | JavaScript    | Ubuntu Server             | Yolo                    | Github Actions
-| jQuery      | Web Hooks             | Node.js       | Docker                    | Pytorch                 | Azure DevOps
-| Kendo       | Blazor Server         | Markdown      | Windows Storage           | Movidius                | TFS
-| Telerik     | Microsoft SQL         | PowerShell    | IIS                       | OpenAI                  | Git
-| Blazor      | Azure Functions       | Batch         | Nginx                     | OpenALPR                | Svn
-| MVC         | Azure Storage         | Python        | Apache                    | Microsoft.ML            | Cvs
-| Razor       | Azure Service Bus     | XAML          | FTP                       | Predictive Analytics    | VSS
-| Mustache    | Azure Queues          | Visual Basic  | SSH                       | TensorFlow              |
-| CORS        | Rabbit MQ             | PineScript    | Active Directory          | TensorFlow Lite         |
-| Knockout    | Azure Tables          | HTML          | Azure Active Directory    | NABirds                 |
-| Underscore  | SQLite                | CSS           | Azure Networking          |                         |
-| Backbone    | MySQL                 | XML           | Azure VPN                 |                         |
 
 ## EXPERIENCE
 
