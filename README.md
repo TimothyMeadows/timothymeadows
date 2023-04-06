@@ -1,16 +1,69 @@
 <p>
-I bring 23 years of experience. I have engineered high availability distributed systems, and applications as well as led teams of engineers, and developers as large as 15. I have strong knowledge of security policies and practices as well as experience in securing medical, and financial systems. I have strong communication skills, and can work alone on large projects for protracted periods of time.
+I bring 23 years of experience, engineering high availability distributed systems, and open source libraries. I have great knowledge of user interfaces, and stateful design. I have lead teams of engineers, and developers as large as 15. I have strong knowledge of security policies and practices as well as experience in securing medical, and financial systems. I have strong communication skills, and can work alone on large projects for protracted periods of time.
 </p>
 
-- [EXPERIENCE](#experience)
-    - [**The Dot Corp, Inc,** Santa Ana, CA — *Lead Full-Stack Developer*](#the-dot-corp-inc-santa-ana-ca--lead-full-stack-developer)
-    - [**Via Touch Media** San Diego, CA — *Security Systems Engineer*](#via-touch-media-san-diego-ca--security-systems-engineer)
-    - [**nPrivate** San Bernardino, CA — *Security Systems Engineer*](#nprivate-san-bernardino-ca--security-systems-engineer)
-    - [**TopLingo, Inc** Irvine, CA — *Application Systems Engineer*](#toplingo-inc-irvine-ca--application-systems-engineer)
-    - [**Slingshot Development, Inc** Irvine, CA — *Software Developer*](#slingshot-development-inc-irvine-ca--software-developer)
-    - [**Meadows & Meadows** Anaheim, CA — *Software Developer*](#meadows--meadows-anaheim-ca--software-developer)
-- [LANGUAGES](#languages)
-- [CONTACTS](#contacts)
+## SKILLS
+
+This is a small highlight of the most requested skills i offer. Skills used at specific companies, or projects are also listed in experience. I also can't stress enough my strong desire to learn new skills, and methodologies used through various industries.
+
+<table>
+  <tbody>
+    <tr>
+      <th align="left">FRONT END</th>
+      <th align="left">BACK END</th>
+      <th align="left">DATABASE</th>
+      <th align="left">SECURITY</th>
+      <th align="left">DESIGN</th>
+    </tr>
+    <tr>
+      <td align="left">
+         <ul>
+            <li>Redux</li>
+            <li>React</li>
+            <li>Angular</li>
+            <li>Blazor</li>
+            <li>Kendo</li>
+         </ul>
+      </td>
+      <td align="left">
+         <ul>
+            <li>WebApi</li>
+            <li>Mvc</li>
+            <li>Serverless</li>
+            <li>Blazor</li>
+            <li>SignalR</li>
+         </ul>
+      </td>
+      <td align="left">
+         <ul>
+            <li>MSSQL</li>
+            <li>SQLite</li>
+            <li>Redis</li>
+            <li>MySQL</li>
+            <li>MongoDB</li>
+         </ul>
+      </td>
+      <td align="left">
+         <ul>
+            <li>CORS</li>
+            <li>JWT</li>
+            <li>OpenID</li>
+            <li>oAuth</li>
+            <li>Zero Knowledge</li>
+         </ul>
+      </td>
+      <td align="left">
+         <ul>
+            <li>SOLID</li>
+            <li>Stateful</li>
+            <li>Microservices</li>
+            <li>Distributed</li>
+            <li>Immutable</li>
+         </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## EXPERIENCE
 
@@ -78,14 +131,3 @@ JUN 2000 - AUG 2002
 * Built anti-theft scanning system to help warehouses catch converter box theft from installers.
 
 **Skills**: JavaScript · HTML 5 · Web Applications · Software Development · Microsoft SQL Server · ASP · ActionScript · Perl · SQLite · REST · Windows Server · Visual Basic · CSS · SQL
-
-## LANGUAGES
-
-* #### English
-
-## CONTACTS
-
-* #### [Email](mailto:timothy@timothymeadows.com)
-* #### [Twitter](https://twitter.com/birdgineer)
-* #### [Github](https://github.com/TimothyMeadows)
-* #### [Linkedin](https://www.linkedin.com/in/timothydmeadowsii/)
