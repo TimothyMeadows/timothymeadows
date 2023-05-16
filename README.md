@@ -67,6 +67,9 @@ This is a small highlight of the most requested skills i offer. Skills used at s
 
 ## EXPERIENCE
 
+### **First American**  Santa Ana, CA — *Full-Stack Developer*
+MAY 2023 - Current
+
 ### **The Dot Corp, Inc,** Santa Ana, CA — *Lead Full-Stack Developer*
 JUN 2014 - FEB 2023
 
