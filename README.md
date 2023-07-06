@@ -70,8 +70,8 @@ This is a small highlight of the most requested skills i offer. Skills used at s
 ### **First American**  Santa Ana, CA — *Full-Stack Developer*
 MAY 2023 - Current
 
-* Built a disaster recovery plan for development team for both azure resources, and development piplines.
-* Helped to update teraform infrastructure to reflect new diaster recovery plan.
+* Built a disaster recovery plan for development team for both azure resources, and development pipelines.
+* Helped to update teraform infrastructure to reflect new disaster recovery plan.
 * Merged complex YAML pipeline structure to a more simplified hybrid YAML/Classic structure that can follow a disaster recovery plan.
 * Provide consulting to development team members on complex computational tasks, such as help with threading, code performance, and database performance.
 
