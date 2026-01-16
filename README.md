@@ -1,5 +1,5 @@
 <p>
-I bring 25 years of experience, engineering high availability distributed systems, and open source libraries. I have great knowledge of user interfaces, and stateful design. I have lead teams of engineers, and developers as large as 15. I have strong knowledge of security policies and practices as well as experience in securing medical, and financial systems. I have strong communication skills, and can work alone on large projects for protracted periods of time.
+I bring 26 years of experience, engineering high availability distributed systems, and open source libraries. I have great knowledge of user interfaces, and stateful design. I have lead teams of engineers, and developers as large as 15. I have strong knowledge of security policies and practices as well as experience in securing medical, and financial systems. I have strong communication skills, and can work alone on large projects for protracted periods of time.
 </p>
 
 ## SKILLS
